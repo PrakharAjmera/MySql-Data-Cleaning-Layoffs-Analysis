@@ -1,4 +1,4 @@
-##MySql-Data-Cleaning-Layoffs-Analysis
+## MySql-Data-Cleaning-Layoffs-Analysis
 
 📌 Project Overview
 

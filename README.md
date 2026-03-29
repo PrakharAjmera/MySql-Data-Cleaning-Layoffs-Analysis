@@ -1,3 +1,5 @@
+##MySql-Data-Cleaning-Layoffs-Analysis
+
 📌 Project Overview
 
 This project focuses on cleaning and preparing a real-world dataset of global tech layoffs using SQL.

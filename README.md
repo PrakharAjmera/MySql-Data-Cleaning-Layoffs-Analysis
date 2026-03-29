@@ -4,7 +4,7 @@
 
 This project focuses on cleaning and preparing a real-world dataset of global tech layoffs using SQL.
 
-Due to the recent economic slowdown, many tech companies have reduced their workforce. Companies like Meta laid off over 11,000 employees, making this dataset highly relevant for analysis.
+Due to the recent economic slowdown, many tech companies have reduced their workforce, making this dataset highly relevant for analysis.
 
 The goal of this project is to transform raw, inconsistent data into a clean and analysis-ready format.
 

@@ -1,6 +1,6 @@
 ## MySql-Data-Cleaning-Layoffs-Analysis
 
-📌 Project Overview
+### Project Overview
 
 This project focuses on cleaning and preparing a real-world dataset of global tech layoffs using SQL.
 
@@ -8,7 +8,7 @@ Due to the recent economic slowdown, many tech companies have reduced their work
 
 The goal of this project is to transform raw, inconsistent data into a clean and analysis-ready format.
 
-🎯 Objectives
+### Objectives
 Remove duplicate records
 Standardize inconsistent data
 Handle NULL and missing values

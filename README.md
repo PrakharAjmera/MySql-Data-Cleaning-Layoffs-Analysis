@@ -23,23 +23,43 @@ Performed data cleaning and exploratory analysis on a layoffs dataset using MySQ
 
 ---
 
-## 📈 Analysis Performed
+## 📈 Analysis Performed and Key Insights
 
-* Maximum layoffs & company shutdowns (100% layoffs)
-* Layoffs by company, industry, and country
-* Yearly and monthly layoff trends
-* Rolling total of layoffs over time
-* Top 5 companies by layoffs per year (`DENSE_RANK`)
-* Stage-wise analysis (total & average percentage layoffs)
+### 📊 Company Insights
+
+* Amazon had the highest layoffs (18150 employees) followed by Google(12000 employees) and Meta(11000 employees)
 
 ---
 
-## 🔍 Key Insights
+### 🌍 Country Insights
 
-* Layoffs show clear spikes during certain periods
-* A few companies dominate layoffs each year
-* Some companies experienced complete shutdowns
-* Late-stage/Post-IPO companies show higher layoff impact
+* America recorded the highest layoffs (256559 employees) followed by India(35993 employees) and Netherlands(17220 employees)
+---
+
+### 🏭 Industry Insights
+
+* Consumer had the highest layoffs (45182 employees) followed by Retail(43613 employees)
+
+---
+
+### 📅 Time Trends
+
+* Layoffs peaked in 2022
+* Monthly trends show spikes instead of steady patterns
+
+---
+
+### 🏢 Stage Insights
+
+* Post-IPO companies had the highest layoffs
+* Late-stage companies showed more workforce reduction
+
+---
+
+### ⚠️ Critical Observations
+
+* Multiple companies had **100% layoffs (shutdowns)**
+* Indicates instability in certain sectors/startups
 
 ---
 
